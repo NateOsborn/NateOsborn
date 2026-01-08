@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @NateOsborn
-- 👀 I’m interested in game development, AI, full stack web development, graphic design, UI/UX, music, animation and art!
-- 🌱 I graduated in November 2022 with a 2.1 BSc(Hons) in Computing and IT and Design from The Open University. Taught myself web development, and game development alongside the degree and I am still learning new things and revising old things every day.
-- 🤖 Experienced freelance digital quality assurance for large language models LLMs.
-- 🎮 Experienced solo game developer since 2018. I have designed and built numerous game prototypes in Unity, Godot, and Adventure Game Studio. Check them out here https://iconiel.com/
-- 📫 Contact me on LinkedIn: https://www.linkedin.com/in/nathangamedev
+# Nathan Osborn
 
-<!---
-NateOsborn/NateOsborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Technical Problem-Solver | Web and Data**
+
+---
+
+I'm a UK-based developer with a non-traditional path into tech. After years in retail and customer service, I returned to education in my thirties, earning a <span style="color:#F97316">**BSc (Hons) Computing & IT with Design (2.1)**</span> from The Open University, and more recently an <span style="color:#F97316">**IBM Data Science Professional Certificate**</span>.
+
+My journey has taken me through <span style="color:#F97316">**game development**</span> with Unity and Godot, <span style="color:#F97316">**full-stack web applications**</span> with Node.js and MongoDB, and most recently <span style="color:#F97316">**AI code evaluation**</span> where I assess AI-generated code for accuracy and engineering best practices.
+
+I bring a methodical approach to problem-solving, shaped by years of independent project work and a genuine passion for building things that work well.
+
+---
+
+### What I Work With
+
+```
+Python  •  JavaScript/TypeScript  •   SQL  •  AI •  ML
+Node.js  •  MongoDB  •  Git  •  Godot  • +more
+```
+
+---
+
+### Find Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/nathan-osborn-tech)
+
